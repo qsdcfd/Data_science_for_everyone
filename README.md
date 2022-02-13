@@ -19,3 +19,6 @@
 7. 데이터 예측(WITH Pytorch)-제가 시도해보고 싶은 거
 
 8. 캐클에 이용해보기
+
+
+![image](https://user-images.githubusercontent.com/86671456/153760280-b88d5e5e-f9b3-44de-b1e3-bc1eb3ef9665.png)
